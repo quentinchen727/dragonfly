@@ -2,4 +2,10 @@ This is for homework!
 Something New!
 This is some change from another user
 This is for fetching and merging.
+<<<<<<< Updated upstream
 Some change for stash.
+Put some change into stash.
+||||||| merged common ancestors
+=======
+Put some change into stash.
+>>>>>>> Stashed changes
